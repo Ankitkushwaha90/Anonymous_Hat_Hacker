@@ -11,8 +11,8 @@ import Bottombar from '@/components/shared/Bottombar'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: "Anomymous_Hat_Hacker",
-  description: "A Next.js 13 Meta Threads application",
+  title: "Threads",
+  description: "A Next.js 14 Meta Threads application",
 };
 
 
